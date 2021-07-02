@@ -1,4 +1,4 @@
-# TraversyMedia_clone-Loruki
+# TraversyMedia_clone-FrontendBootcamp
 This repository is just for my practice cloning youtube tutorial by Traversy Media.
 
 
