@@ -3,7 +3,6 @@ This repository is just for my practice cloning youtube tutorial by Traversy Med
 
 
 ## Beautiful Original
----
 Traversy Media - Bootstrap 5 Crash Course | Website Build & Deploy
 > YouTube https://youtu.be/4sosXZsdy-s
 
