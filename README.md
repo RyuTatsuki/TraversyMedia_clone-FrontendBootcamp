@@ -9,4 +9,4 @@ Traversy Media - Bootstrap 5 Crash Course | Website Build & Deploy
 > GitHub https://github.com/bradtraversy/bootstrap-bootcamp-website
 
 
-### **Thanks a lot to Traversy Media!!**
+### **Thanks a lot Traversy Media!!**
